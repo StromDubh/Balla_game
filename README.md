@@ -28,3 +28,9 @@ You control a paddle to keep the ball bouncing, while avoiding hazards and colle
    You can check with:
    ```bash
    python --version
+
+   pip install pygame
+
+   git clone https://github.com/StromDubh/Balla_game.git
+cd Balla_game
+
